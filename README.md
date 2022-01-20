@@ -24,3 +24,4 @@ For more  [HTML5 Game Development](http://www.html5gamedevelopment.org) resource
 
 
 
+This is an Update! beta version of game yeeeee
